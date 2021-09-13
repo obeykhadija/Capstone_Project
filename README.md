@@ -9,14 +9,14 @@ The age of commercial space travel is no longer a far distant dream for humanity
 In this capstone, we will predict if the Falcon 9 first stage will land successfully. Provided that we can determine whether the first stage will land, we can also calculate the cost of a launch. 
 
 ## Summary of Results
-  • Cape Canaveral Space Launch Complex 40 (CCAFS SLC 40 had the most launches
-  • Most launches were geosynchronous orbit (GTO)
-  • Success of first stage launches across all launch sites was 66.67%
-  • When payload is over 10,000 kg's almost all the first stage landings are successful
-  • ES-L1, GEO, HEO, and SSO Orbits had the highest success rates
-  • The Kennedy Space Center Launch Complex 39A was shown to have the highest success ratio for landing outcomes
-  • ES-L1, GEO, HEO, and SSO Orbits had the highest success rates
-  • Logistic Regression, SVM, Decision Tree Classifier, and KNN all predicted success of first launch with 83% accuracy
+* Cape Canaveral Space Launch Complex 40 (CCAFS SLC 40 had the most launches
+* Most launches were geosynchronous orbit (GTO)
+* Success of first stage launches across all launch sites was 66.67%
+* When payload is over 10,000 kg's almost all the first stage landings are successful
+* ES-L1, GEO, HEO, and SSO Orbits had the highest success rates
+* The Kennedy Space Center Launch Complex 39A was shown to have the highest success ratio for landing outcomes
+* ES-L1, GEO, HEO, and SSO Orbits had the highest success rates
+* Logistic Regression, SVM, Decision Tree Classifier, and KNN all predicted success of first launch with 83% accuracy
   
 ## Conclusions
 The purpose of this project was to examine the relationship between several rocket launch features and how they potentially impact the landing outcome of Falcon 9 first stage. Using various ML model’s, we were able to determine the landing outcome with 83% accuracy.
